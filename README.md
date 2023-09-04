@@ -15,8 +15,6 @@ The primary objective of this project is to showcase a proof of concept, demonst
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Join Our Discord Community](#join-our-discord-community)
-- [Hardware Requirement](#hardware-requirement)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -77,19 +75,6 @@ You can customize Juicerant to suit your preferences:
 Unlock the full potential of Juicerant by joining our Discord community. Here, you'll get access to the premium version, exclusive tips and tricks, and the chance to connect with other Valorant enthusiasts.
 
 [Join Juicerant Discord](https://discord.gg/freMnBpdVM)
-## Hardware Requirement
-
-To fully utilize Juicerant, you'll need an Arduino device. The Arduino will help sync your in-game actions with the training scenarios provided by Juicerant.
-
-Don't have an Arduino yet? No worries! You'll need an Arduino Leonardo (or anything with an at32u4 chip) I reccomend this: [https://www.amazon.com/Arduino-org-A000057-Arduino-Leonardo-Headers/dp/B008A36R2Y](https://www.amazon.com/Arduino-org-A000057-Arduino-Leonardo-Headers/dp/B008A36R2Y).
-
-
-You'll also need a usb host shield as Valorant doesn't allow two mouse inputs, unless you have the premium version which bypasses this and allows you to use Juicerant with only an arduino and no host shield (Less than buying the host shield ~$15)
-You can buy one [here]
-
-You'll also need to solder it: [Youtube Link](https://www.youtube.com/watch?v=1dxwU87GQVM)
-
-After that you'll need to download the [arduino ide](https://www.arduino.cc/en/software) and upload the arduino code I have in the arduino folder
 
 
 ## License
