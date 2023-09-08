@@ -125,7 +125,7 @@ class Juicerant:
             x, y, w, h = cv2.boundingRect(closest_contour)
             center = (x + w // 2, y + h // 2)
             cX = center[0]
-            cY = y + 0.10
+            cY = y + 0.20
             cYcenter = center[1] - self.grabber.yfov // 2
             x_diff = cX - self.grabber.xfov // 2
             y_diff = cY - self.grabber.yfov // 2
