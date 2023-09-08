@@ -1,6 +1,6 @@
 <h1 align="center">Juicerant🍇 - Valorant Colorbot </h1>
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMcShrimp%2Fjuicerant%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<a href="https://discord.gg/freMnBpdVM">
+ ![Hits](https://views.whatilearened.today/views/github/McShrimp/juicerant.svg)<a href="https://discord.gg/freMnBpdVM">
         <img src="https://img.shields.io/discord/1069832469622304841?logo=discord"
             alt="chat on Discord"></a> 
 
