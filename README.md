@@ -2,7 +2,7 @@
 
  <a href="https://discord.gg/HjJCwm5">
         <img src="https://img.shields.io/discord/1069832469622304841?logo=discord"
-            alt="chat on Discord"></a> ![](https://img.shields.io/github/stars/McShrimp/juicerant)
+            alt="chat on Discord"></a> 
 
 
 Juicerant is a highly efficient color aimbot designed to rapidly scan for a range of purple color of the valorant enemy player outlines on your screen and precisely aim/shoot at it, without any interference with the game memory or files of Valorant.
