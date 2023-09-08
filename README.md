@@ -1,6 +1,6 @@
 <h1 align="center">Juicerant🍇 - Valorant Colorbot </h1>
 
-![](https://img.shields.io/github/downloads/McShrimp/juicerant/total)  <a href="https://discord.gg/HjJCwm5">
+ <a href="https://discord.gg/HjJCwm5">
         <img src="https://img.shields.io/discord/1069832469622304841?logo=discord"
             alt="chat on Discord"></a> ![](https://img.shields.io/github/stars/McShrimp/juicerant)
 
