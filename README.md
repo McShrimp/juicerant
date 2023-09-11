@@ -9,7 +9,7 @@ Juicerant is a highly efficient color aimbot designed to rapidly scan for a rang
 
 Unlike conventional video game cheats that rely on the process memory to function, Juicerant adopt a unique approach by avoiding any memory reading altogether. This innovative approach has the potential to remain undetectable by anti-cheat mechanisms that typically attempt to block memory reads. Additionally, sending input to the video game without triggering any flags can be a challenging aspect to consider.
 
-The primary objective of this project is to showcase a proof of concept, demonstrating the potential of Colorant's novel approach to aimbot technology.
+The primary objective of this project is to showcase a proof of concept, demonstrating the potential of Juicerant's novel approach to aimbot technology.
 
 ![image](https://i.ibb.co/Zcn0n8g/juicer.png)
 
