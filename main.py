@@ -51,7 +51,7 @@ class Main:
 ██   ██║██║   ██║██║██║     ██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║   ██║   
 ╚█████╔╝╚██████╔╝██║╚██████╗███████╗██║  ██║██║  ██║██║ ╚████║   ██║   
  ╚════╝  ╚═════╝ ╚═╝ ╚═════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
-                                                                                                                                             ''', 'light_red')  + 'by ' + colored('@lovelylemons', 'light_yellow')+ ' on Discord')
+                                                                                                                                             ''', 'light_red')  + 'by ' + colored('@supnet', 'light_yellow')+ ' on Discord')
 
     def print_info(self):
         try:
